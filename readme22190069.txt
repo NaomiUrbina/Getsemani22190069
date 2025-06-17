@@ -1,5 +1,2 @@
-Naomi
-Urbina
-Vazquez
-21 años
-ramass
+nueva rama
+practica git
