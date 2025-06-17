@@ -1,0 +1,3 @@
+rama 1
+rama 2
+rama 3
